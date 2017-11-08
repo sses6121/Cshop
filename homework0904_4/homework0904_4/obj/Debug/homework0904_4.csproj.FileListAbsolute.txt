@@ -1,0 +1,10 @@
+F:\Users\eye\windows.net\C#\homework0904_4\homework0904_4\bin\Debug\homework0904_4.exe.config
+F:\Users\eye\windows.net\C#\homework0904_4\homework0904_4\bin\Debug\homework0904_4.exe
+F:\Users\eye\windows.net\C#\homework0904_4\homework0904_4\bin\Debug\homework0904_4.pdb
+F:\Users\eye\windows.net\C#\homework0904_4\homework0904_4\obj\Debug\homework0904_4.csprojResolveAssemblyReference.cache
+F:\Users\eye\windows.net\C#\homework0904_4\homework0904_4\obj\Debug\homework0904_4.Form1.resources
+F:\Users\eye\windows.net\C#\homework0904_4\homework0904_4\obj\Debug\homework0904_4.Properties.Resources.resources
+F:\Users\eye\windows.net\C#\homework0904_4\homework0904_4\obj\Debug\homework0904_4.csproj.GenerateResource.Cache
+F:\Users\eye\windows.net\C#\homework0904_4\homework0904_4\obj\Debug\homework0904_4.csproj.CoreCompileInputs.cache
+F:\Users\eye\windows.net\C#\homework0904_4\homework0904_4\obj\Debug\homework0904_4.exe
+F:\Users\eye\windows.net\C#\homework0904_4\homework0904_4\obj\Debug\homework0904_4.pdb
