@@ -1,0 +1,9 @@
+C:\Users\eye-694\source\repos\homework0903_3\homework0903_3\bin\Debug\homework0903_3.exe.config
+C:\Users\eye-694\source\repos\homework0903_3\homework0903_3\bin\Debug\homework0903_3.exe
+C:\Users\eye-694\source\repos\homework0903_3\homework0903_3\bin\Debug\homework0903_3.pdb
+C:\Users\eye-694\source\repos\homework0903_3\homework0903_3\obj\Debug\homework0903_3.Form1.resources
+C:\Users\eye-694\source\repos\homework0903_3\homework0903_3\obj\Debug\homework0903_3.Properties.Resources.resources
+C:\Users\eye-694\source\repos\homework0903_3\homework0903_3\obj\Debug\homework0903_3.csproj.GenerateResource.Cache
+C:\Users\eye-694\source\repos\homework0903_3\homework0903_3\obj\Debug\homework0903_3.csproj.CoreCompileInputs.cache
+C:\Users\eye-694\source\repos\homework0903_3\homework0903_3\obj\Debug\homework0903_3.exe
+C:\Users\eye-694\source\repos\homework0903_3\homework0903_3\obj\Debug\homework0903_3.pdb
