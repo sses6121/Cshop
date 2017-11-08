@@ -1,0 +1,10 @@
+F:\Users\eye\windows.net\C#\HW_Teams\HW_Teams\bin\Debug\HW_Teams.exe.config
+F:\Users\eye\windows.net\C#\HW_Teams\HW_Teams\bin\Debug\HW_Teams.exe
+F:\Users\eye\windows.net\C#\HW_Teams\HW_Teams\bin\Debug\HW_Teams.pdb
+F:\Users\eye\windows.net\C#\HW_Teams\HW_Teams\obj\Debug\HW_Teams.csprojResolveAssemblyReference.cache
+F:\Users\eye\windows.net\C#\HW_Teams\HW_Teams\obj\Debug\HW_Teams.Form1.resources
+F:\Users\eye\windows.net\C#\HW_Teams\HW_Teams\obj\Debug\HW_Teams.Properties.Resources.resources
+F:\Users\eye\windows.net\C#\HW_Teams\HW_Teams\obj\Debug\HW_Teams.csproj.GenerateResource.Cache
+F:\Users\eye\windows.net\C#\HW_Teams\HW_Teams\obj\Debug\HW_Teams.csproj.CoreCompileInputs.cache
+F:\Users\eye\windows.net\C#\HW_Teams\HW_Teams\obj\Debug\HW_Teams.exe
+F:\Users\eye\windows.net\C#\HW_Teams\HW_Teams\obj\Debug\HW_Teams.pdb
