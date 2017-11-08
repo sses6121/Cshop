@@ -1,0 +1,15 @@
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\bin\Debug\homework0911_1.exe.config
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\bin\Debug\homework0911_1.exe
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\bin\Debug\homework0911_1.pdb
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\bin\Debug\Interop.WMPLib.dll
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\bin\Debug\AxInterop.WMPLib.dll
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\obj\Debug\homework0911_1.csprojResolveAssemblyReference.cache
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\obj\Debug\Interop.WMPLib.dll
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\obj\Debug\AxInterop.WMPLib.dll
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\obj\Debug\homework0911_1.csproj.ResolveComReference.cache
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\obj\Debug\homework0911_1.Form1.resources
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\obj\Debug\homework0911_1.Properties.Resources.resources
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\obj\Debug\homework0911_1.csproj.GenerateResource.Cache
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\obj\Debug\homework0911_1.csproj.CoreCompileInputs.cache
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\obj\Debug\homework0911_1.exe
+F:\Users\eye\windows.net\C#\homework0911_1\homework0911_1\obj\Debug\homework0911_1.pdb
