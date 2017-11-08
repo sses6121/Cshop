@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ds" targetNamespace="http://tempuri.org/ds.xsd" xmlns:mstns="http://tempuri.org/ds.xsd" xmlns="http://tempuri.org/ds.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ds" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ds" msprop:Generator_UserDSName="ds">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="familyDirectory" msprop:Generator_TableClassName="familyDirectoryDataTable" msprop:Generator_TableVarName="tablefamilyDirectory" msprop:Generator_RowChangedName="familyDirectoryRowChanged" msprop:Generator_TablePropName="familyDirectory" msprop:Generator_RowDeletingName="familyDirectoryRowDeleting" msprop:Generator_RowChangingName="familyDirectoryRowChanging" msprop:Generator_RowEvHandlerName="familyDirectoryRowChangeEventHandler" msprop:Generator_RowDeletedName="familyDirectoryRowDeleted" msprop:Generator_RowClassName="familyDirectoryRow" msprop:Generator_UserTableName="familyDirectory" msprop:Generator_RowEvArgName="familyDirectoryRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msdata:ReadOnly="true" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:int" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="cellphone" msprop:Generator_ColumnVarNameInTable="columncellphone" msprop:Generator_ColumnPropNameInRow="cellphone" msprop:Generator_ColumnPropNameInTable="cellphoneColumn" msprop:Generator_UserColumnName="cellphone" type="xs:string" minOccurs="0" />
+              <xs:element name="appellation" msprop:Generator_ColumnVarNameInTable="columnappellation" msprop:Generator_ColumnPropNameInRow="appellation" msprop:Generator_ColumnPropNameInTable="appellationColumn" msprop:Generator_UserColumnName="appellation" type="xs:string" minOccurs="0" />
+              <xs:element name="address" msprop:Generator_ColumnVarNameInTable="columnaddress" msprop:Generator_ColumnPropNameInRow="address" msprop:Generator_ColumnPropNameInTable="addressColumn" msprop:Generator_UserColumnName="address" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:familyDirectory" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

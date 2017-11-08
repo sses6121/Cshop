@@ -1,0 +1,11 @@
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\bin\Debug\familydirectory.exe.config
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\bin\Debug\familydirectory.exe
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\bin\Debug\familydirectory.pdb
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\obj\Debug\familydirectory.Form1.resources
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\obj\Debug\familydirectory.Properties.Resources.resources
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\obj\Debug\familydirectory.csproj.GenerateResource.Cache
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\obj\Debug\familydirectory.csproj.CoreCompileInputs.cache
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\obj\Debug\familydirectory.exe
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\obj\Debug\familydirectory.pdb
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\obj\Debug\familydirectory.Form2.resources
+F:\Users\eye\windows.net\C#\familydirectory\familydirectory\obj\Debug\familydirectory.csprojResolveAssemblyReference.cache
