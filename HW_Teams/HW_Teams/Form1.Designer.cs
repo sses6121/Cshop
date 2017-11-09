@@ -35,7 +35,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(144, 77);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "中文";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -45,7 +45,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(144, 77);
             this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
+            this.button2.Text = "英文";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -70,7 +70,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(594, 505);
+            this.ClientSize = new System.Drawing.Size(503, 433);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.button2);
